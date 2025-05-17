@@ -1,0 +1,7 @@
+# QR Code Claims Tracking Log
+Created: 2024-05-17
+
+Format of entries:
+QR #[number] claimed at [timestamp]
+
+--- Begin Log ---
