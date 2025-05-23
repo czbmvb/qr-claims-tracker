@@ -3,6 +3,10 @@
     {
       "name": "potato",
       "count": 2
+    },
+    {
+      "name": "MBC",
+      "count": 0
     }
   ]
 }
