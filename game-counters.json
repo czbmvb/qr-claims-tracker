@@ -1,1 +1,8 @@
-{}
+{
+  "counters": [
+    {
+      "name": "potato",
+      "count": 1
+    }
+  ]
+}
