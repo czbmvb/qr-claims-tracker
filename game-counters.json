@@ -75,6 +75,10 @@
     {
       "name": "boss3",
       "count": 0
+    },
+    {
+      "name": "Boss1",
+      "count": 1
     }
   ]
 }
