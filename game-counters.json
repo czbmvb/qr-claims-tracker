@@ -79,6 +79,10 @@
     {
       "name": "Boss1",
       "count": 1
+    },
+    {
+      "name": "grapple",
+      "count": 0
     }
   ]
 }
