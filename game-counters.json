@@ -95,6 +95,10 @@
     {
       "name": "VorMarok",
       "count": 200000
+    },
+    {
+      "name": "mini1",
+      "count": 0
     }
   ]
 }
