@@ -123,6 +123,10 @@
     {
       "name": "homst",
       "count": 1
+    },
+    {
+      "name": "PXLB",
+      "count": 200000
     }
   ]
 }
